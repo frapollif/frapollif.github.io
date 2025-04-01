@@ -4,7 +4,7 @@
     "name": "Meowsalot",
     "photo": "https://learnwebcode.github.io/pet-adoption-data/photos/meowsalot.webp",
     "species": "cat",
-    "birthYear": "2019",
+    "birthYear": "2025",
     "description": "Meowsalot is a talkative friend that loves to play and is great with children. He is looking for a forever home today!"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Barksalot",
     "photo": "https://learnwebcode.github.io/pet-adoption-data/photos/golden.webp",
     "species": "dog",
-    "birthYear": "2022",
+    "birthYear": "2024",
     "description": "Barksalot is a sweetheart that loves to play and is great with children. Fetch, hide and seek, tik-tac-toe, tog of war, hop scotch, you name the game; he wants to play! Barksalot has been at our location for the last two months and he is looking for a forever home today!"
   },
   {
